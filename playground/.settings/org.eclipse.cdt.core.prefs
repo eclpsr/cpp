@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.892716988/CWD/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.892716988/CWD/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.892716988/CWD/value=C\:\\Users\\eclpsr\\eclipse-workspace\\playground\\Debug
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.892716988/PATH/delimiter=;
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.892716988/PATH/operation=replace
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.892716988/PATH/value=C\:\\mingw\\mingw64\\bin
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.892716988/append=true
+environment/project/cdt.managedbuild.config.gnu.cross.exe.debug.892716988/appendContributed=true
