@@ -1,15 +1,15 @@
-//============================================================================
-// Name        : playground.cpp
-// Author      : 
-// Version     :
-// Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
-//============================================================================
-
 #include <iostream>
+#include "Mystring.h"
 using namespace std;
 
 int main() {
-	cout << "!!!Hello World!!!" << endl; // prints !!!Hello World!!!
+	Mystring empty; // no-args constructor
+	Mystring larry("Larry"); // overloaded constructor
+	Mystring stooge {larry}; // copy constructor
+
+	empty.display();
+	larry.display();
+	stooge.display();
+
 	return 0;
 }
